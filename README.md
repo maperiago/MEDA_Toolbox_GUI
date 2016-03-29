@@ -1,5 +1,5 @@
 # MEDA_Toolbox_GUI
-Interfaz de software libre para la MEDA Toolbox
+Interfaz gráfica de software libre para la MEDA Toolbox
 
 ---- CONTENIDO DEL DIRECTORIO DE DISTRIBUCIÓN ----
 
