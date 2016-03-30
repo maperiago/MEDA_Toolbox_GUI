@@ -29,6 +29,7 @@ MEDA_Toolbox_GUI/
 
 	- octave-3.8.1-installer.exe:	Archivo ejecutable de la versión 3.8.1 del software GNU Octave con la que se ha hecho compatible la aplicación
 	- ginput.m:			Script de la función principal para la interactuación con los gráficos de dispersión
+	- JavaDOC JavaOCTAVE:		Documentación en formato web de la interfaz de comunicación entre Java y Octave
 
 
 
